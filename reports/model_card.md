@@ -11,4 +11,5 @@
 - **Forbidden columns:** the target column (is_high_value) 
 ## 3) Evaluation plan
 - **Split strategy:** train / holdout split
-- **Primary metric:** accuracy 
+- **Primary metric:** accuracy
+
